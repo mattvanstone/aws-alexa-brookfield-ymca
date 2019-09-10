@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+.circleci
+.ask
+.vscode
+lambda.zip
+
+.DS_Store
